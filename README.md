@@ -9,6 +9,10 @@
 
 [Code](2025.09.13/code/main.cpp)
 
+## Указатели, массивы, строки
+[Slides](2025.09.20/Lecture%202.%20Pointer%2C%20arrays.pdf)
+
+[Code](2025.09.20/code/main.cpp)
 
 
 # Лабораторные работы
