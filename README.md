@@ -15,6 +15,13 @@
 [Code](2025.09.20/code/main.cpp)
 
 
+## Структуры и Объединения
+[Slides](2025.09.27/Lecture%203.%20Struct%20and%20union.pdf)
+
+[Code](2025.09.27/code/main.cpp)
+
+
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
