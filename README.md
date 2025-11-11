@@ -21,3 +21,4 @@
 1. [Templator](https://classroom.github.com/a/wNoghO0O)
 2. [int2025_t](https://classroom.github.com/a/tGGgRcuy)
 3. [CmdArgsLib](https://classroom.github.com/a/D3TJHgPf)
+4. [HamArch](https://classroom.github.com/a/gCMcPbpV)
