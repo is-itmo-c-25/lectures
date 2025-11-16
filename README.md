@@ -7,6 +7,7 @@
 #### [4. Сегменты памяти](2025.10.04/Lecture%204.%20Memory.pdf)
 #### [5. Reference, initialization, namespace, function overloading](2025.10.11/Lecture%205.%20Reference%2C%20initialization%2C%20function%2C%20namespace.pdf) / [Code](2025.10.11/code/main.cpp)
 #### [6. Компиляция](2025.10.25/Lecture%206.%20Compiler%20and%20preprocessor.pdf) / [Code](2025.10.25/code/main.cpp)
+#### [7. OOП - I](2025.11.01/Lecture%207.%20C%2B%2B.%20ООП.%20Абстракция.%20Инкапсуляция.pdf) / [Code](2025.11.08/code/main.cpp)
 
 
 
