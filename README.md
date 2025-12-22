@@ -11,6 +11,8 @@
 #### [8. Перегрузка операторов](2025.11.22/Lecture%208.%20Operator%20overloading.pdf) / [Code](2025.11.22/code/main.cpp)
 #### [9. ООП - II](2025.11.29/Lecture%209.%20ООП.%20Наследование.pdf) / [Code](2025.11.29/code/main.cpp)
 #### [10. ООП - III](2025.12.06/Lecture%2010%20%20ООП.%20Полиморфизм..pdf) / [Code](2025.12.06/code/main.cpp)
+#### [11. Template - I](2025.12.13/Lecture%2011.%20Template.%20class%20and%20function%20-%20I.pdf) / [Code](2025.12.13/code/main.cpp)
+#### [12. Template - II](2025.12.20/Lecture%2012.%20%20Template%20-%20II.pdf) / [Code](2025.12.20/code/main.cpp)
 
 
 
