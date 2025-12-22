@@ -29,3 +29,6 @@
 3. [CmdArgsLib](https://classroom.github.com/a/D3TJHgPf)
 4. [HamArch](https://classroom.github.com/a/gCMcPbpV)
 5. [ITMOLoops](https://classroom.github.com/a/eHZPttpH)
+
+
+[Экзамен](Exam%20-%20I.md)
