@@ -35,7 +35,7 @@
 
 ## Весенний Семестр
 
-6. Comming Soon...
+6. [Circular Buffer](https://classroom.github.com/a/um8x18cZ)
 
 
 [Экзамен](Exam%20-%20I.md)
