@@ -14,7 +14,7 @@
 #### [11. Template - I](2025.12.13/Lecture%2011.%20Template.%20class%20and%20function%20-%20I.pdf) / [Code](2025.12.13/code/main.cpp)
 #### [12. Template - II](2025.12.20/Lecture%2012.%20%20Template%20-%20II.pdf) / [Code](2025.12.20/code/main.cpp)
 #### [13. STL - I](2026.02.07/Lecture%2013.%20STL.%20Контейнеры%2C%20итераторы%2C%20алгоритмы.pdf) / [Code](2026.02.07/code/main.cpp)
-#### [14. STL - II](2026.02.14 - 21/Lecture%2014.%20STL.%20Контейнеры%2C%20итераторы%2C%20алгоритмы%20-%20II.pdf) / [Code](2026.02.14/code/main.cpp)
+#### [14. STL - II](2026.02.14/Lecture%2014.%20STL.%20Контейнеры%2C%20итераторы%2C%20алгоритмы%20-%20II.pdf) / [Code](2026.02.14/code/main.cpp)
 #### [15. Error handling](2026.02.28/Lecture%2015.%20Error%20Handling.pdf) / [Code](2026.02.28/code/main.cpp)
 #### [16. Cast & CRTP](2026.03.07/Lecture%2016.%20%20Casts%2C%20CRTP%20.pdf) / [Code](2026.03.07/code/main.cpp)
 
