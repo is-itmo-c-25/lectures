@@ -17,6 +17,8 @@
 #### [14. STL - II](2026.02.14/Lecture%2014.%20STL.%20Контейнеры%2C%20итераторы%2C%20алгоритмы%20-%20II.pdf) / [Code](2026.02.14/code/main.cpp)
 #### [15. Error handling](2026.02.28/Lecture%2015.%20Error%20Handling.pdf) / [Code](2026.02.28/code/main.cpp)
 #### [16. Cast & CRTP](2026.03.07/Lecture%2016.%20%20Casts%2C%20CRTP%20.pdf) / [Code](2026.03.07/code/main.cpp)
+#### [17. Labmda](2026.03.14/Lecture%2017.%20Lambda.pdf) / [Code](2026.03.14/code/main.cpp)
+#### [18. Value categories & Move semantics](2026.03.28/Lecture%2018.%20%20Value%20categories%20%26%20Move%20semantics.pdf) / [Code](2026.03.28/code/main.cpp)
 
 
 
