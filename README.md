@@ -18,7 +18,7 @@
 #### [15. Error handling](2026.02.28/Lecture%2015.%20Error%20Handling.pdf) / [Code](2026.02.28/code/main.cpp)
 #### [16. Cast & CRTP](2026.03.07/Lecture%2016.%20%20Casts%2C%20CRTP%20.pdf) / [Code](2026.03.07/code/main.cpp)
 #### [17. Labmda](2026.03.14/Lecture%2017.%20Lambda.pdf) / [Code](2026.03.14/code/main.cpp)
-#### [19. Variadic templates](variadic/Lecture%2019.%20%20Variadic%20templates.pdf)
+#### [19. Variadic templates](variadic/Lecture%2019.%20%20Variadic%20Templates.pdf)
 #### [20. Template Metaprogramming](metaprogramming/Lecture%2020.%20%20Template%20Metaprogramming.pdf)
 
 
