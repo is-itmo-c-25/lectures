@@ -18,8 +18,8 @@
 #### [15. Error handling](2026.02.28/Lecture%2015.%20Error%20Handling.pdf) / [Code](2026.02.28/code/main.cpp)
 #### [16. Cast & CRTP](2026.03.07/Lecture%2016.%20%20Casts%2C%20CRTP%20.pdf) / [Code](2026.03.07/code/main.cpp)
 #### [17. Labmda](2026.03.14/Lecture%2017.%20Lambda.pdf) / [Code](2026.03.14/code/main.cpp)
-#### [19. Variadic templates](variadic/Lecture%2019.%20%20Variadic%20Templates.pdf)
-#### [20. Template Metaprogramming](metaprogramming/Lecture%2020.%20%20Template%20Metaprogramming.pdf)
+#### [19. Variadic templates](2026.04.11/Lecture%2019.%20%20Variadic%20Templates.pdf) / [Code](2026.04.11/code/main.cpp)
+#### [20. Template Metaprogramming](2026.04.18/Lecture%2020.%20%20Template%20Metaprogramming.pdf) / [Code](2026.04.18/code/main.cpp)
 
 
 
@@ -37,6 +37,7 @@
 4. [HamArch](https://classroom.github.com/a/gCMcPbpV)
 5. [ITMOLoops](https://classroom.github.com/a/eHZPttpH)
 
+[Экзамен](Exam%20-%20I.md)
 
 ## Весенний Семестр
 
@@ -44,6 +45,7 @@
 7. [External Library](https://classroom.github.com/a/2XGOKT9G)
 8. [Adapters](https://classroom.github.com/a/H6nlQUhW)
 9. [TaskScheduler](https://classroom.github.com/a/gkme4ieJ)
+10. [萝卜，萝卜](https://classroom.github.com/a/2snTiOMe)
 
 
-[Экзамен](Exam%20-%20I.md)
+
