@@ -47,5 +47,6 @@
 9. [TaskScheduler](https://classroom.github.com/a/gkme4ieJ)
 10. [萝卜，萝卜](https://classroom.github.com/a/2snTiOMe)
 
+[Экзамен](Exam%20-%20II.md)
 
 
