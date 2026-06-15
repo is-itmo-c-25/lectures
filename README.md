@@ -20,6 +20,7 @@
 #### [17. Labmda](2026.03.14/Lecture%2017.%20Lambda.pdf) / [Code](2026.03.14/code/main.cpp)
 #### [19. Variadic templates](2026.04.11/Lecture%2019.%20%20Variadic%20Templates.pdf) / [Code](2026.04.11/code/main.cpp)
 #### [20. Template Metaprogramming](2026.04.18/Lecture%2020.%20%20Template%20Metaprogramming.pdf) / [Code](2026.04.18/code/main.cpp)
+#### [21. Concurrency](2026.05.16/Lecture%2021.%20Concurrency.pdf) / [Code](2026.05.16/code/main.cpp)
 
 
 
